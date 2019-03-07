@@ -8,5 +8,6 @@ This repo is used to track meta issues about the etcd project. This includes all
 - Website
 - Twitter handle
 - Events
+- CNCF funding requests
 
 Please file an issue if something can be handled publicly. Otherwise email the [MAINTAINERS](https://github.com/etcd-io/etcd/blob/master/MAINTAINERS)
